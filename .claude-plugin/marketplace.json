@@ -1,0 +1,13 @@
+{
+  "name": "oa-django-skill",
+  "owner": {
+    "name": "rx451g"
+  },
+  "plugins": [
+    {
+      "name": "oa-django-skill",
+      "source": "./",
+      "description": "Django 6.0 development skill: models, ORM, migrations, views, forms, auth, security, admin, async, and tests following the official Django 6.0 docs."
+    }
+  ]
+}
