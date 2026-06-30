@@ -24,7 +24,7 @@ This repo is a Claude Code **plugin** containing one skill. Add it as a plugin
 marketplace from GitHub, then install the plugin:
 
 ```
-/plugin marketplace add <your-github-user>/oa-django-skill
+/plugin marketplace add martinvidec/oa-django-skill
 /plugin install oa-django-skill
 ```
 

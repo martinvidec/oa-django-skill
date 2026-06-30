@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Django 6.0 development skill: build and extend Django 6.0 projects (models, ORM, migrations, views, forms, auth, security, admin, async, tests) following the official 6.0 documentation and best practices.",
   "author": {
-    "name": "rx451g"
+    "name": "martinvidec"
   },
   "keywords": ["django", "django-6.0", "python", "web", "orm", "migrations", "async"]
 }
